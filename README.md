@@ -3,7 +3,7 @@ Welcome to Go Travel – an all-in-one travel platform designed for explorers an
 
 ---
 
-## ✨ Why Go Travel?
+## ✨ Why Go Travel ?
 Go Travel redefines the travel booking experience by offering:
 
 Personalized Travel Recommendations: Discover tours based on your interests and previous bookings.
