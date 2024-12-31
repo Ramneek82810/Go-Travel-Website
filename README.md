@@ -14,11 +14,16 @@ Mobile-First Design: Enjoy the flexibility of planning your trips on the go, any
 ---
 
 ## 🔍 Explore the Features
-🔒 Secure Login: Users can sign in with confidence through a secure authentication system.
-🏞️ Book Exciting Tours: Browse through an extensive catalog of tours, filtering by location, price, and more.
-👤 Profile Management: Users can view their booking history, update personal details, and manage their preferences.
-🛠 Admin Panel: Manage tour listings, approve bookings, and ensure smooth user management through an intuitive admin interface.
-💻 Fully Responsive: A beautifully crafted interface that adapts to any device – be it a mobile, tablet, or desktop.
+
+-🔒 Secure Login: Users can sign in with confidence through a secure authentication system.
+
+-🏞️ Book Exciting Tours: Browse through an extensive catalog of tours, filtering by location, price, and more.
+
+-👤 Profile Management: Users can view their booking history, update personal details, and manage their preferences.
+
+-🛠 Admin Panel: Manage tour listings, approve bookings, and ensure smooth user management through an intuitive admin interface.
+
+-💻 Fully Responsive: A beautifully crafted interface that adapts to any device – be it a mobile, tablet, or desktop.
 
 
 ---
@@ -34,10 +39,14 @@ Real-Time Features: Experience live updates and instant bookings with real-time 
 ---
 
 ## 📂 Project Folder Structure
-Components: Reusable UI elements categorized by features (Auth, Profile, Tours, Admin, etc.).
-Pages: All the main pages like the home, tour listing, and profile pages are in this directory.
-Redux: A state management tool to manage user and booking states efficiently across the app.
-Utils: Helper functions and utilities for smooth operation across different modules.
+
+-Components: Reusable UI elements categorized by features (Auth, Profile, Tours, Admin, etc.).
+
+-Pages: All the main pages like the home, tour listing, and profile pages are in this directory.
+
+-Redux: A state management tool to manage user and booking states efficiently across the app.
+
+-Utils: Helper functions and utilities for smooth operation across different modules.
 
 ---
 
