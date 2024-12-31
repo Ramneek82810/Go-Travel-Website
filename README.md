@@ -59,6 +59,7 @@ Go Travel is powered by modern and scalable technologies:
 ---
 
 ## 🚀 How to Get Started
+
 Getting Go Travel up and running is easy! Simply clone the project from GitHub, install the necessary dependencies, and you're good to go. The project is designed for easy deployment and customization, making it perfect for developers and travel enthusiasts alike.
 
 ---
