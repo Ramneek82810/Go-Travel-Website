@@ -33,12 +33,16 @@ Go Travel redefines the travel booking experience by offering:
 ---
 
 ## 🛠 What Powers Go Travel?
+
 Go Travel is powered by modern and scalable technologies:
 
-Frontend: An intuitive user interface built with cutting-edge technology for seamless interactions.
-Backend: A robust backend ensuring smooth data management and secure transactions.
-Database: Reliable and scalable database to store all user, booking, and tour information securely.
-Real-Time Features: Experience live updates and instant bookings with real-time data synchronization.
+-Frontend: An intuitive user interface built with cutting-edge technology for seamless interactions.
+
+-Backend: A robust backend ensuring smooth data management and secure transactions.
+
+-Database: Reliable and scalable database to store all user, booking, and tour information securely.
+
+-Real-Time Features: Experience live updates and instant bookings with real-time data synchronization.
 
 ---
 
