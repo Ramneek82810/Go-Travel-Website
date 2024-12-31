@@ -4,12 +4,16 @@ Welcome to Go Travel – an all-in-one travel platform designed for explorers an
 ---
 
 ## ✨ Why Go Travel ?
+
 Go Travel redefines the travel booking experience by offering:
 
-Personalized Travel Recommendations: Discover tours based on your interests and previous bookings.
-Smooth User Experience: From booking to profile management, the intuitive design ensures a frictionless flow.
-Admin Control: Manage tours, users, and bookings efficiently from a dedicated admin panel.
-Mobile-First Design: Enjoy the flexibility of planning your trips on the go, anytime, anywhere!
+-Personalized Travel Recommendations: Discover tours based on your interests and previous bookings.
+
+-Smooth User Experience: From booking to profile management, the intuitive design ensures a frictionless flow.
+
+-Admin Control: Manage tours, users, and bookings efficiently from a dedicated admin panel.
+
+-Mobile-First Design: Enjoy the flexibility of planning your trips on the go, anytime, anywhere!
 
 ---
 
